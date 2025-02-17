@@ -12,3 +12,5 @@ chart_studio==1.1.0
 pandas_datareader==0.10.0
 scikit_learn==1.6.1
 nltk==3.9.1
+keras==3.8.0
+tensorflow==2.18.0
